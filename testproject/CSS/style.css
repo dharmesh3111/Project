@@ -1,0 +1,264 @@
+
+body {
+    background-color: #ffffff;
+    color: black;
+    font-family: Verdana,Arial,Tahoma,sans-serif;
+    font-size: 9pt;
+}
+.form{
+	margin:0px;
+}
+.top{
+	margin-top: 3px;
+	padding-left:0px;
+	padding-right: 0px;
+}
+.logo{
+	float:left;
+	padding-left:3px;
+}
+.welcome {
+    float: right;
+	margin-top: 2%;
+}
+.second_top{
+	padding-left:9px;
+	padding-right: 0px;
+	}
+.menu {
+    padding-left: 0;
+	float: left;
+	margin-top:5px;
+}
+.menu_link {
+    background-color: whitesmoke;
+    color: #000;
+}
+.menu_link:hover{
+	text-decoration:none;
+	color:crimson;
+}
+.menu_link1 {
+    background-color: whitesmoke;
+    color: #000;
+}
+.menu_link1:hover{
+	text-decoration:none;
+	color:#ff6600;
+}
+.seprate{
+	background-color: whitesmoke;
+}
+.search_inside {
+    padding-right: 0;
+}
+.search{
+	margin-top:5px;
+	float:right;
+	}
+.category_search{
+	padding-left: 7px;
+	padding-right:0;
+	margin-bottom:3px;
+}
+.txt_search{
+	padding-left: 7px;
+    padding-right: 0;
+	margin-bottom:2px;
+}
+.btn_search{
+	padding-left: 7px;
+    padding-right: 0;
+}
+.cat_select{
+	height: 22px;
+    padding-top: 3px;
+}
+.BNButton0 {
+    background-color: #669999;
+    border-color: -moz-use-text-color;
+    border-style: none;
+    border-width: 1px;
+    color: white;
+    font-size: 9pt;
+    text-align: center;
+	margin-top: 2px;
+}
+.space {
+    height: 26px;
+}
+.space1 {
+    height: 17px;
+}
+.third_top{
+	padding-left:7px;
+}
+.load_agent{
+	padding:0;
+}
+.inside_load_agent{
+	padding:0;
+}
+.agent{
+	margin-top: 2px;
+    padding-left: 0;
+    padding-right: 4px;
+	margin-bottom: 3px;
+}
+.agent_in{
+	padding:0;
+	margin-bottom: 3px;
+}
+.BNButton100 {
+    background-color: #669999;
+    border-color: -moz-use-text-color;
+    border-style: none;
+    border-width: 1px;
+    color: white;
+    font-size: 9pt;
+    text-align: center;
+    vertical-align: top;
+    width: 100%;
+}
+.PCTextRedBox100 {
+    border-color: #773355;
+    border-width: 1px;
+    color: black;
+    font-family: verdana,arial,helvetica;
+    font-size: 9pt;
+    width: 100%;
+}
+.exit{
+	padding:0;
+}
+.inside_exit{
+	padding:0;
+}
+.blank{
+	padding:0;
+}
+.in_exit{
+	padding:0;
+}
+.DNButton100 {
+    background-color: #6699ff;
+    border-color: -moz-use-text-color;
+    border-style: none;
+    border-width: 1px;
+    color: white;
+    float: right;
+    font-size: 9pt;
+    text-align: center;
+    vertical-align: top;
+    width: 100%;
+}
+.line {
+    border-bottom: 2px solid #ccccff;
+    margin: 10px 15px 12px 5px;
+}
+.line1 {
+    border-bottom: 2px solid #ccccff;
+    margin: 3px 15px 12px 5px;
+}
+.content_row1 {
+   margin-bottom: 2px;
+   padding-left: 7px;
+}
+.content_row1_left{
+	padding:0;
+}
+.inside_content_row1_left{
+	padding:0;
+}
+.agent_id{
+	padding:0;
+	background-color: whitesmoke;
+	color: black;
+    font-family: verdana,arial,helvetica;
+    font-size: 9pt;
+    text-align: left;
+}
+.agent_value{
+	padding-left: 3px;
+}
+.PCTextWhite {
+    color: black;
+    font-family: verdana,arial,helvetica;
+    font-size: 9pt;
+}
+.PCTextTblBox100 {
+    background-color: #f0f0ff;
+    border-color: #6699ff;
+    border-width: 1px;
+    color: black;
+    font-family: verdana,arial,helvetica;
+    font-size: 9pt;
+    width: 100%;
+}
+.content_row1_right{
+	padding:0;
+}
+.agent_id1{
+	padding:0;
+}
+.content_row1_col1{
+	padding:0;
+	margin-bottom: 3px;
+	background-color:whitesmoke;
+}
+.content_row1_col2{
+	padding: 0 0 0 2px;
+	margin-bottom: 3px;
+}
+.content_row1_col3{
+	padding: 0 0 0 2px;
+	margin-bottom: 3px;
+}
+.content_row1_col4{
+	padding: 0 0 0 2px;
+	margin-bottom: 3px;
+}
+.txt_input{
+	height:18px;
+	}
+.tbl_data{
+	width:100%;
+	float:left;
+}
+.content_row2 {
+    margin-bottom: 2px;
+    padding-left: 7px;
+	border:1px solid #ccc;
+}
+TR.DataGrid_HeaderStyle {
+    background-color: #045c98;
+    color: white;
+    font-family: verdana,arial,helvetica;
+    font-size: 10pt;
+    font-weight: normal;
+    line-height: normal;
+}
+TR.DataGrid_ItemStyle_L {
+    background-color: whitesmoke;
+    font-family: verdana,arial,helvetica;
+    font-size: 10pt;
+    text-align: left;
+}
+TR.DataGrid_AlternatingItemStyle_L {
+    background-color: white;
+    font-family: verdana,arial,helvetica;
+    font-size: 10pt;
+    text-align: left;
+}
+TR.DataGrid_PagerStyle {
+    background-color: gainsboro;
+    color: white;
+    font-family: verdana,arial,helvetica;
+    font-size: 10pt;
+    font-weight: normal;
+    text-align: right;
+}
+.redeem{
+	font-family: times new roman;
+    font-size: 16px;
+	}
